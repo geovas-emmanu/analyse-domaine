@@ -3,12 +3,12 @@
 
 ## Découverte de soi
 
-- Mes forces : Créativité, Organisation, 
-    - Exemple : 
-- Mes faiblesses ou points à améliorer : Des fois à comprendre les idées de autres, ou les appliquer 
-    - Exemple : 
+- Mes forces : Créativité, Organisation, Improvisation(Je crois).
+    - Exemple : Mes travaux d'ilustration et les shorts que je faisais en Youtube et dans l'organisation j'essaie d'être le plus organisé possible.
+- Mes faiblesses ou points à améliorer : Des fois à comprendre les idées des autres, ou travailler en équipe(presque tout le temps je travaillais seul, c'est encore difficile pour moi)
+    - Exemple : Au secondaire, vue que je travailais seul la majorité de temps, je ne suis pas trop habitué.
 - Seul(e) ou en équipe : En équipe
-    - Pourquoi et exemple : Ça pourrait m'aider à mieux comprendre le point de vue des autres, en général j'avais eu des mauvaises expériences au secondaire, mais ici c'est pas le cas
+    - Pourquoi et exemple : Ça pourrait m'aider à mieux comprendre le point de vue des autres, en général j'avais eu des mauvaises expériences au secondaire, mais ici c'est pas le cas.
 - Plutôt technique ou créatif :  Je dirais plutôt créatif, quand je suis bien motivé, dans le montage ou creation viasuelle
 
 ## Exploration des domaines
@@ -34,10 +34,10 @@
 
 ### Domaine 2 : Ilustration
 
-- Expérience : 
-- Logiciels et outils : ...
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Expérience : L’illustration je ne l’avait pas complètement touchée, jusqu’à présent, mais le bon côté est que je l’ai comprise assez rapidement même si il me manque sûrement encore un peu pour la maîtriser.
+- Logiciels et outils : J'ai mon laptop et mon PC avec Photoshop déjà prêt pour utiliser, j'imagine c'est un peu la base.
+- Pourquoi il m'intéresse : Comme j'avais déjà dit créer de personnages et les amener à la vie est trop bien, j'adore.
+- Travailler dans ce domaine : Pour partager mes idées et m'ameliorer de plus en plus, pour povoir travailler dans un studio important ou même independant et apporter mon talent.
 
 ## Les caractéristiques de mon domaine préféré
 
