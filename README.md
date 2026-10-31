@@ -48,12 +48,28 @@
 
 (source de l'image : 
 
-- Types de produits et de services : 
+- Types de produits et de services : Photographies publicitaires pour le web et l'affichage, catalogues d'e-commerce, portraits corporatifs (headshots), banques d'images exclusives pour les marques, et livres photo ou portfolios imprimés de haute qualité.
 
-- Étapes de production : 
-- Type d'emploi visé : ...
-- Étapes pour obtenir cet emploi : ...
-
+- Étapes de production : Idéation / recherche¶
+Concept et public cible
+Préproduction¶
+Scénario et découpage technique
+Storyboard et moodboard
+Repérage, casting, budget et plan de tournage
+Production¶
+Tournage (image, son, éclairage)
+Postproduction¶
+Montage image et son
+Effets visuels et colorisation
+Mixage, générique et rendu final
+Opération¶
+Diffusion (festivals, télévision, web)
+Promotion
+Gestion des droits et archivage
+- Type d'emploi visé : J'aimerais travailler comme Assistant Photographe ou Photographe de Studio
+- Étapes pour obtenir cet emploi : La Formation; Obtenir mon diplôme technique ou artistique en photographie
+- Le Portfolio (Création de contenu) : Développer un book solide et ciblé démontrant la maîtrise technique de la lumièr, de la composition et des logiciels(Adobe)
+- Stage: Réaliser un stage pratique au sein d'un studio de renom ou assister des photographes professionnels actifs pour comprendre la réalité du terrain et le flux de travail avec les clients.
 ## Conclusion
 
 - Mon profil en une phrase : ...
