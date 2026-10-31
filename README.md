@@ -68,14 +68,14 @@ Promotion
 Gestion des droits et archivage
 - Type d'emploi visé : J'aimerais travailler comme Assistant Photographe ou Photographe de Studio
 - Étapes pour obtenir cet emploi : La Formation; Obtenir mon diplôme technique ou artistique en photographie
-- Le Portfolio (Création de contenu) : Développer un book solide et ciblé démontrant la maîtrise technique de la lumièr, de la composition et des logiciels(Adobe)
+- Le Portfolio (Création de contenu) : Développer un book solide et ciblé démontrant la maîtrise technique de la lumière, de la composition et des logiciels(Adobe)
 - Stage: Réaliser un stage pratique au sein d'un studio de renom ou assister des photographes professionnels actifs pour comprendre la réalité du terrain et le flux de travail avec les clients.
 ## Conclusion
 
-- Mon profil en une phrase : ...
-- Ce qui m'a surpris : ...
-- Ma force principale et la faiblesse à travailler : ...
-- Mon action d'ici la fin de la session : ...
+- Mon profil en une phrase : Passionné par les arts visuels, j'aspire à devenir retoucheur numérique pour sublimer les images et leur donner une identité visuelle unique.
+- Ce qui m'a surpris : Je sens que la prépoduction est un phase assez chargé et complexe.
+- Ma force principale et la faiblesse à travailler : Ma motivation et creativité, travailler en équipe 
+- Mon action d'ici la fin de la session : Développer et finaliser un portfolio qui démontre mes meilleures compétences techniques en traitement d'image.
 
 ## Ma capsule
 
