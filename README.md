@@ -15,19 +15,19 @@
 
 | Domaine | Intérêt | Pourquoi |
 |---|---|---|
-| Graphisme | | Fort | J'aime designer des choses avec un bon style. 
+| Graphisme | Fort | J'aime designer des choses avec un bon style. |
 | Vidéo et animation 2D | Fort | Je faisais des shorts en Youtube et j'adore animer des choses. |
-| 3D |  | fort | J'aimerais mettre en vie mes personnages.
+| 3D | Fort | J'aimerais mettre en vie mes personnages. |
 | Web | Moyen | J'aime bien, mais des fois je n'arrive pas à comprendre du tout. |
 | Jeux vidéo | Fort | J'aimerais faire mes propres jeux |
-| Développement logiciel | Moyen | J'aime bien aussi  |
+| Développement logiciel | Moyen | J'aime bien aussi, pour créer des applications utiles |
 | Installations et expériences immersives | Fort | Il n’y a rien de mieux que de donner vie à quelque chose avec des effets spectaculaires |
 
 ## Mes 2 domaines préférés
 
 ### Domaine 1 : Photographie
 
-- Expérience : Je sors souvent prendre des photos pour pratiquer, et aussi le cours de photo me donne un motivation de plus pour m'améliorer
+- Expérience : Je sors souvent à prendre des photos pour pratiquer, et aussi le cours de photo me donne un motivation de plus pour m'améliorer.
 - Logiciels et outils : J'utilise ma Canon T7 Rebel avec ses accessoires inclus, mais je trop envie de travailler avec des lentilles plus grands.
 - Pourquoi il m'intéresse : J'adore prendre des photos avec des styles uniques, et j'aime prendre des mémoires pour le futur.
 - Travailler dans ce domaine : J'aimerais travailler en photo, parce que la photographie pourrait m'amener à des endroits que je ne m’attendais pas à visiter et à connaitre des gens. 
