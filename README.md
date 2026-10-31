@@ -34,21 +34,21 @@
 
 ### Domaine 2 : Ilustration
 
-- Expérience : L’illustration je ne l’avait pas complètement touchée, jusqu’à présent, mais le bon côté est que je l’ai comprise assez rapidement même si il me manque sûrement encore un peu pour la maîtriser.
+- Expérience : L’illustration je ne l’avait pas complètement touchée, jusqu’à présent, mais le bon côté est que je l’ai comprise assez rapidement même s'il me manque encore un peu pour la maîtriser.
 - Logiciels et outils : J'ai mon laptop et mon PC avec Photoshop déjà prêt pour utiliser, j'imagine c'est un peu la base.
 - Pourquoi il m'intéresse : Comme j'avais déjà dit créer de personnages et les amener à la vie est trop bien, j'adore.
 - Travailler dans ce domaine : Pour partager mes idées et m'ameliorer de plus en plus, pour povoir travailler dans un studio important ou même independant et apporter mon talent.
 
 ## Les caractéristiques de mon domaine préféré
 
-- Types d'entreprises : ...
-- Exemple d'entreprise : ...
+- Types d'entreprises : Canon, Sony, Nikkon, Fujifilm.
+- Exemple d'entreprise : 
 
-![Nom de l'entreprise](entreprise.jpg)
+![Sony](entreprise.jpg)
 
-(source de l'image : ...)
+(source de l'image : https://d1ncau8tqf99kp.cloudfront.net/CATEGORY/DI/cameras-and-lenses/desktop/hero.png)
 
-- Types de produits et de services : ...
+- Types de produits et de services : La vente de caméras et d’accessoires pour caméra 
 - Étapes de production : ...
 - Type d'emploi visé : ...
 - Étapes pour obtenir cet emploi : ...
