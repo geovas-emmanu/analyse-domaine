@@ -41,15 +41,16 @@
 
 ## Les caractéristiques de mon domaine préféré
 
-- Types d'entreprises : Canon, Sony, Nikkon, Fujifilm.
-- Exemple d'entreprise : 
+- Types d'entreprises : Studios de création audiovisuel et Agences de marketing 
+- Exemple d'entreprise : OK George! Studio. C'est un studio de production audiovisuelle multidisciplinaire qui collabore avec de grandes marques pour créer du contenu visuel (photographie de produits, éditoriaux et campagnes numériques).
 
-![Sony](entreprise.jpg)
+![OK George! Studio](entreprise.jpg)
 
-(source de l'image : https://d1ncau8tqf99kp.cloudfront.net/CATEGORY/DI/cameras-and-lenses/desktop/hero.png)
+(source de l'image : 
 
-- Types de produits et de services : La vente de caméras et d’accessoires pour caméra 
-- Étapes de production : ...
+- Types de produits et de services : 
+
+- Étapes de production : 
 - Type d'emploi visé : ...
 - Étapes pour obtenir cet emploi : ...
 
