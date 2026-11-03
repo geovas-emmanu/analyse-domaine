@@ -46,7 +46,7 @@
 
 ![OK George! Studio](entreprise.jpg)
 
-(source de l'image : 
+(source de l'image : https://www.facebook.com/okgeorgestudio/
 
 - Types de produits et de services : Photographies publicitaires pour le web et l'affichage, catalogues d'e-commerce, portraits corporatifs (headshots), banques d'images exclusives pour les marques, et livres photo ou portfolios imprimés de haute qualité.
 
